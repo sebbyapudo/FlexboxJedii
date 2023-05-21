@@ -1,1 +1,8 @@
-
+/* header image */
+.header-img {
+  display: block;
+  width: 250px;
+  border-radius: 20px;
+  border-top: 4px solid #619561;
+  border-right: 4px solid #619561;
+}
