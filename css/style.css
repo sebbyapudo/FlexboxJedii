@@ -62,6 +62,11 @@ ul {
   border-top: 4px solid var(--bg-primary-1);
   border-right: 0.25rem solid var(--bg-primary-1);
   top: 1.5rem;
+  transition: opacity .5s;
+}
+
+.header-img:hover {
+  opacity: .7;
 }
 
 /* Controlling widths with the container */
